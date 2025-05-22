@@ -1,0 +1,1 @@
+This is a simple and interactive Tic-Tac-Toe web game built using HTML, CSS, and JavaScript. Two players take turns marking the spaces in a 3×3 grid with X and O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. 
